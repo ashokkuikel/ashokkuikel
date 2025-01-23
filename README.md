@@ -2,22 +2,17 @@
 
 <!--
 **ashokkuikel/ashokkuikel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+-->
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-
-# 💫 About Me:
-🌌 I’m currently working on<br>Designing secure, scalable multi-cloud architectures, implementing DevSecOps pipelines, and optimizing cybersecurity frameworks for compliance and resilience.<br><br>🤝 I’m looking to collaborate on<br>Threat intelligence platforms, security automation projects, and innovative solutions combining MLOps and cybersecurity.<br><br>💡 I’m looking for help with<br>Expanding expertise in advanced AI/ML-driven cybersecurity solutions and global compliance frameworks.<br><br>🌱 I’m currently learning<br>Advanced threat detection using AI/ML, Google Cloud security tools, and exploring new strategies for secure Kubernetes deployments.<br><br>💬 Ask me about<br>Cybersecurity best practices, multi-cloud architecture, secure DevOps pipelines, and automating security for enterprise systems.<br><br>⚡ Fun fact<br>I enjoy exploring how machine learning can transform cybersecurity while experimenting with Python scripts to automate everyday tasks.
+🔭 I’m currently working on: Building secure multi-cloud infrastructures, implementing threat intelligence platforms, and optimizing DevSecOps pipelines for scalable AI/ML projects.
+🌱 I’m currently learning: Advanced AI-driven threat detection, Google Cloud security tools, and secure Kubernetes configurations.
+👯 I’m looking to collaborate on: Cybersecurity automation, MLOps integration, and innovative DevSecOps projects.
+🤔 I’m looking for help with: Exploring new methodologies for AI/ML security and enhancing compliance strategies for global frameworks.
+💬 Ask me about: Threat intelligence, multi-cloud security, secure CI/CD pipelines, and Python scripting for automation.
+📫 How to reach me: [Your preferred contact method—LinkedIn, email, etc.]
+😄 Pronouns: He/Him
+⚡ Fun fact: I enjoy combining Python scripting with cybersecurity to automate repetitive tasks and solve real-world problems creatively.
 
 
 ## 🌐 Socials:
