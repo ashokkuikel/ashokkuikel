@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 💬 Ask me about: Threat intelligence, multi-cloud security, secure CI/CD pipelines, and Python scripting for automation.
 
-📫 How to reach me: hello@ashokkuikel.com
+📫 How to reach me: mail.ashokkuikel@gmail.com
 
 
 😄 Pronouns: He/Him
