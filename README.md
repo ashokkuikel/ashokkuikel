@@ -6,13 +6,21 @@
 Here are some ideas to get you started:
 
 🔭 I’m currently working on: Building secure multi-cloud infrastructures, implementing threat intelligence platforms, and optimizing DevSecOps pipelines for scalable AI/ML projects.
+
 🌱 I’m currently learning: Advanced AI-driven threat detection, Google Cloud security tools, and secure Kubernetes configurations.
+
 👯 I’m looking to collaborate on: Cybersecurity automation, MLOps integration, and innovative DevSecOps projects.
+
 🤔 I’m looking for help with: Exploring new methodologies for AI/ML security and enhancing compliance strategies for global frameworks.
+
 💬 Ask me about: Threat intelligence, multi-cloud security, secure CI/CD pipelines, and Python scripting for automation.
+
 📫 How to reach me: [Your preferred contact method—LinkedIn, email, etc.]
+
 😄 Pronouns: He/Him
+
 ⚡ Fun fact: I enjoy combining Python scripting with cybersecurity to automate repetitive tasks and solve real-world problems creatively.
+
 
 
 ## 🌐 Socials:
