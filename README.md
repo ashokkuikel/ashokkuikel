@@ -3,7 +3,6 @@
 <!--
 **ashokkuikel/ashokkuikel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-Here are some ideas to get you started:
 
 🔭 I’m currently working on: Building secure multi-cloud infrastructures, implementing threat intelligence platforms, and optimizing DevSecOps pipelines for scalable AI/ML projects.
 
